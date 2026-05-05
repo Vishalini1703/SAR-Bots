@@ -1,0 +1,2 @@
+"""Erebus Rescue controller package."""
+
